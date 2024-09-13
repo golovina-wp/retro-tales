@@ -126,6 +126,11 @@ nav a:hover::before {
     padding-bottom: 4%;
     font-family: 'Joystix', sans-serif;
 }
+.blk-content h2, .blk-content h2 span {
+    font-size: 22px;
+    font-family: 'Joystix', sans-serif;
+    margin: 20px 0 10px;
+}
 .blk-content p {
     padding-bottom: 20px;
     font-family: 'Anonymous Pro', sans-serif;
