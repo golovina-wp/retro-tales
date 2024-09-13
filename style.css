@@ -138,6 +138,9 @@ nav a:hover::before {
     font-size: 17px;
     opacity: 0.8;
 }
+.blk-content p > span {
+    font-family: 'Joystix', sans-serif;
+}
 .blk-content img {
     width: 100%;
     padding-bottom: 20px;
